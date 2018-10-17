@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="38989" started-at="2018-10-17T03:30:20Z" finished-at="2018-10-17T03:30:59Z">
+  <suite name="Suite" duration-ms="39846" started-at="2018-10-17T04:53:25Z" finished-at="2018-10-17T04:54:05Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="38989" started-at="2018-10-17T03:30:20Z" finished-at="2018-10-17T03:30:59Z">
+    <test name="Test" duration-ms="39846" started-at="2018-10-17T04:53:25Z" finished-at="2018-10-17T04:54:05Z">
       <class name="Testcase.Testcase_01_AppiumLocator">
-        <test-method status="PASS" signature="appiumLocator()[pri:0, instance:Testcase.Testcase_01_AppiumLocator@6d00a15d]" name="appiumLocator" duration-ms="38968" started-at="2018-10-16T23:30:20Z" finished-at="2018-10-16T23:30:59Z">
+        <test-method status="PASS" signature="appiumLocator()[pri:0, instance:Testcase.Testcase_01_AppiumLocator@6d00a15d]" name="appiumLocator" duration-ms="39827" started-at="2018-10-17T00:53:25Z" finished-at="2018-10-17T00:54:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- appiumLocator -->
       </class> <!-- Testcase.Testcase_01_AppiumLocator -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

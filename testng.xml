@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="Resoruces.Launch_device"/>  
+      <class name="Testcase.Testcase_01_AppiumLocator"/>  
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
